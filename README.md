@@ -1,2 +1,2 @@
 # ROBOTS
-this is a github repository.
+Today is QiXi Festival.
